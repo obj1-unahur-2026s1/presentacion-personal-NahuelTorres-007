@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es Nahuel Torres
+- Vivo en Rafael Castillo
+- Soy alumno de la Tecnicatura en Programación de Videojuegos
 
-
-### Otra Información
+### Datos adicionales
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Soy egresado de la Tecnicatura en Producción y Diseño de Videojuegos de la UNPAZ
+- Mi genero favorito de juegos son los de estrategia
